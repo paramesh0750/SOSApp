@@ -137,5 +137,3 @@ Through this project, the following concepts were learned:
 # 👨‍💻 Author
 
 **Paramesh D**
-
-Android Developer | Kotlin Enthusiast
